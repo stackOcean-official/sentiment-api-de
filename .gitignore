@@ -1,3 +1,4 @@
+.DS_Store
 model/*
 !model/.gitkeep 
 # Byte-compiled / optimized / DLL files
